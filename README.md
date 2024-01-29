@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 RPA Developer
 -------------
 
-I am studying Data Analysis and Systems Development at UNIP and I studied 1.5 years of Automation Engenering at PUCC. My focus is on building a solid career in the field of Robotic Process Automation (RPA) and programming, with specialization in VBA, Python .
+I am studying Data Analysis and Systems Development at UNIP and I studied 1.5 years of Automation Engenering at PUCC. My focus is on building a solid career in the field of Robotic Process Automation (RPA) and programming, with specialization in VBA, Python . I have already worked at a multinational where I developed several automations for the quality, manufacturing, and administrative sectors. With more than 4 years of experience in programming and automation development
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [pedrotardivo7@gmail.com](mailto:pedrotardivo7@gmail.com)
