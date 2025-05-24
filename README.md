@@ -1,24 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Mesquita Tardivo
-==============================================================================================================================================
+# 👋 Pedro Tardivo
 
-RPA Developer / Data Science
--------------
+**Engenheiro de Dados Júnior na V4 Company**  
+Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em soluções escaláveis, rápidas e confiáveis.
 
-I am studying Data Analysis and Systems Development at UNIP and I studied 1.5 years of Automation Engenering at PUCC. My focus is on building a solid career in the field of Robotic Process Automation (RPA) and programming, with specialization in VBA, Python . I have already worked at a multinational where I developed several automations for the quality, manufacturing, and administrative sectors. With more than 4 years of experience in programming and automation development
+---
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [pedrotardivo7@gmail.com](mailto:pedrotardivo7@gmail.com)
-* 🧠  I'm learning dashboard creation in python
-* 🤝  I'm open to collaborating on Python, Power BI, VBA
+## 🚀 Em atividade
 
-### Skills
+- ETL com Python integrando SaaS (Pipefy, eKyte, Salesforce) e MongoDB  
+- Migração de pipelines para Airflow + dbt  
+- AWS (S3, EC2, ECS, Secrets Manager)  
+- Git no dia a dia de versionamento e colaboração  
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+## 🛠️ Stack
+
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
 </p>
 
+---
 
-### Socials
+## 📈 GitHub Stats
 
-<p align="left"> <a href="https://discord.com/users/pedromtardivo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/PedroMTardivo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/pedro_tardivo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pedro-mesquita-tardivo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?PedroMTardivo&show_icons=true&hide_title=true&hide=prs,issues&theme=radical" height="120"/>
+</p>
+
+---
+
+### ✨ Vamos nos conectar!
+
+Automação? Dados? Web Scraping? Dashboards? Bora conversar sobre como tornar tudo isso mais inteligente.  
+📫 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | ✉️ pedro@email.com
