@@ -22,8 +22,6 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
 </p>
 
@@ -32,12 +30,13 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?PedroMTardivo&show_icons=true&hide_title=true&hide=prs,issues&theme=radical" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMTardivo&show_icons=true&hide_title=true&hide=prs,issues&theme=radical" height="120"/>
 </p>
+
 
 ---
 
 ### ✨ Vamos nos conectar!
 
 Automação? Dados? Web Scraping? Dashboards? Bora conversar sobre como tornar tudo isso mais inteligente.  
-📫 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | ✉️ pedro@email.com
+📫 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | ✉️ pedrotardivo7@gmail.com
