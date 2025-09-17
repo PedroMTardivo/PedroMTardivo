@@ -29,7 +29,7 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
 
 ## 📈 GitHub Stats
 
-![Minhas Estatísticas do GitHub](https://github-readme-stats-two-rose-20.vercel.app/api?username=PedroMTardivo&show_icons=true&theme=transparent&count_private=true) ![Top Langs](https://github-readme-stats-two-rose-20.vercel.app/api/top-langs/?username=PedroMTardivo&layout=compact&theme=transparent)
+![Minhas Estatísticas do GitHub](https://github-readme-stats-two-rose-20.vercel.app/api?username=PedroMTardivo&show_icons=true&count_private=true&theme=transparent&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000&rank_icon=github) ![Top Langs](https://github-readme-stats-two-rose-20.vercel.app/api/top-langs/?username=PedroMTardivo&layout=compact&theme=transparent&title_color=FF0000&text_color=FFFFFF)
 
 
 
