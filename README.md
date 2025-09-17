@@ -33,6 +33,8 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
   <img src="https://github-readme-stats.vercel.app/api?username=PedroMTardivo&show_icons=true&hide_title=true&hide=prs,issues&theme=radical" height="120"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/PedroMTardivo/PedroMTardivo/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
