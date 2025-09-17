@@ -29,9 +29,9 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
 
 ## 📈 GitHub Stats
 
-![Minhas Estatísticas do GitHub](https://github-readme-stats-two-rose-20.vercel.app/api?username=PedroMTardivo&show_icons=true&theme=dracula&count_private=true)
+![Minhas Estatísticas do GitHub](https://github-readme-stats-two-rose-20.vercel.app/api?username=PedroMTardivo&show_icons=true&theme=dracula&count_private=true) ![Top Langs](https://github-readme-stats-two-rose-20.vercel.app/api/top-langs/?username=PedroMTardivo&layout=compact&theme=dracula)
 
-![Top Langs](https://github-readme-stats-two-rose-20.vercel.app/api/top-langs/?username=PedroMTardivo&layout=compact&theme=dracula)
+
 
 
 <img src="https://raw.githubusercontent.com/PedroMTardivo/PedroMTardivo/output/snake.svg" alt="Snake animation" />
