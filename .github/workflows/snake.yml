@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           from_beginning: true 
-          outputs: dist/snake.svg?color_snake=FF0000&color_dots=440000
+          outputs: dist/snake.svg?color_snake=FF0000&color_dots=1C0000,440000,660000,880000,B20000
 
 
       - name: push snake.svg to the output branch
