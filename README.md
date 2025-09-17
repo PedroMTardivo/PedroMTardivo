@@ -29,9 +29,7 @@ Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMTardivo&show_icons=true&hide_title=true&hide=prs,issues&theme=radical" height="120"/>
-</p>
+![Minhas Estatísticas do GitHub](https://github-readme-stats-two-rose-20.vercel.app/api?username=PedroMTardivo&show_icons=true&theme=dracula&count_private=true)
 
 <img src="https://raw.githubusercontent.com/PedroMTardivo/PedroMTardivo/output/snake.svg" alt="Snake animation" />
 
