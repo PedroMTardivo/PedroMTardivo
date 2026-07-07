@@ -1,6 +1,6 @@
 # 👋 Pedro Tardivo
 
-**Engenheiro de Dados Júnior na V4 Company**  
+**Engenheiro de Dados Pleno na SPUN**  
 Apaixonado por automação e engenharia de dados. Transformo fluxos complexos em soluções escaláveis, rápidas e confiáveis.
 
 ---
